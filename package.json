@@ -1,0 +1,19 @@
+{
+  "name": "yer-in-sanfrancisco",
+  "version": "1.0.0",
+  "description": "A fun and interactive way to find San Francisco's premier washrooms.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aforbe2/yer-in-sanfrancisco.git"
+  },
+  "author": "Andrew Forbes, Richard Hertzog",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aforbe2/yer-in-sanfrancisco/issues"
+  },
+  "homepage": "https://github.com/aforbe2/yer-in-sanfrancisco#readme"
+}
